@@ -1,4 +1,4 @@
-### Olá ! Meu nome é João Vitor G. Ferreira.  ❤️ Sou Analista de sistemas, apaixonado por téc, devops💻 Para nos conhecermos melhor, acessa as redes sociais aí. Bye👋
+### Olá ! Meu nome é João Vitor G. Ferreira.  ❤️ Sou Analista de sistemas, apaixonado por técnologia. Para nos conhecermos melhor, acessa as redes sociais aí. Bye👋
 
 ### Minhas redes aí 📱
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/)](https://www.instagram.com/joaovitorfe13/)
