@@ -1,4 +1,4 @@
-### Olá ! Meu nome é João Vitor G. Ferreira.  ❤️ Systems analyst; infrastructure; technology; Cloud; Cybersecurity. Para nos conhecermos melhor, acessa as redes sociais aí. Bye👋
+### Hello welcome. Hope you like our codes. (OBS: I don't care about code infrastructure, for me a code is more than just written words). I am a programmer; passionate about artificial intelligence. But I learn a little bit of everything.
 
 ### Minhas redes aí 📱
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/)](https://www.instagram.com/joaovitorfe13/)
