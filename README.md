@@ -1,5 +1,4 @@
-### Sysadmin, specialist in Linux systems, networks and cybersecurity. I am part of the pfsense community, and the cyber defense institute IDCYBER.
-
+### Sysadmin, specialist in Linux systems.
 ### Minhas redes aí 📱
 [![Linkedin](https://www.linkedin.com/in/jo%C4%81o-vitor-ferreira-0a8480308/)
 
