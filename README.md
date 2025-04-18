@@ -1,4 +1,4 @@
-### Sysadmin, specialist in Linux systems.
+### Sysadmin,system analitycs, Linux, programming python, javascript, C#, Bash. 
 ### Minhas redes aí 📱
 [![Linkedin](https://www.linkedin.com/in/linda5236565/)
 
