@@ -1,4 +1,4 @@
-### Sysadmin,system analitycs, Linux, programming python, javascript, C#, Shell scripting, PHP. 
+### Sysadmin, system analitycs, Linux, programming python, javascript, C#, Shell scripting, PHP. 
 ### Minhas redes aí 📱
 ![Linkedin](https://www.linkedin.com/in/linda5236565/)
 
