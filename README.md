@@ -11,7 +11,7 @@ Sou **João Vitor Ferreira**, analista de TI, desenvolvedor Python com foco em a
 | **Chat IA Web & WhatsApp**          | Chatbot Flask + Twilio WhatsApp usando OpenAI, com memória de contexto, prompt personalizável e interface web simples.  | Python, Flask, OpenAI API, Twilio          | https://github.com/joaovitorfe/chat-ia-web |
 | **Simulação de Mão Robótica**        | Simulação 3D com PyBullet de uma mão robótica controlada via JSON de gestos (abrir, fechar, apontar, etc.). | Python, PyBullet, URDF, NumPy             | https://github.com/joaovitorfe/simulador-de-mao-robotica |
 | **Automação de Documentos**          | Geração de contratos em PDF a partir de Excel com pandas e ReportLab, demonstrando automação de relatórios. | Python, Pandas, ReportLab, Openpyxl        | https://github.com/joaovitorfe/automa-o-de-documentos |
-| **API Gestão de Tarefas (Avançada)** | API REST com FastAPI, PostgreSQL, Celery/Redis, autenticação JWT e tasks assíncronas para notificações. | Python, FastAPI, SQLAlchemy, Celery, Docker | (em breve…)                              |
+| **API Gestão de Tarefas (Avançada)** | API REST com FastAPI, PostgreSQL, Celery/Redis, autenticação JWT e tasks assíncronas para notificações. | Python, FastAPI, SQLAlchemy, Celery, Docker | ( https://github.com/joaovitorfe/API-Gestao-de-tarefas )                              |
 | **Coletor de Notícias com Painel**   | Scraper multi-site com Scrapy + painel interativo em Dash/Streamlit mostrando headlines em tempo real. | Python, Scrapy, Dash/Streamlit               | (em breve…)                              |
 
 ---
