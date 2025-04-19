@@ -6,7 +6,7 @@ Sou **João Vitor Ferreira**, analista de TI, desenvolvedor Python com foco em a
 
 | Projeto                          | Descrição                                                      | Tech Stack                     | Link no GitHub                           |
 |----------------------------------|----------------------------------------------------------------|--------------------------------|------------------------------------------|
-| **Plataforma de Análise Financeira** | App Streamlit para upload de CSV, estatísticas, gráficos, comparação de períodos e exportação em PDF com gráficos e tabelas. | Python, Pandas, Plotly, Streamlit, FPDF | |
+| **Plataforma de Análise Financeira** | App Streamlit para upload de CSV, estatísticas, gráficos, comparação de períodos e exportação em PDF com gráficos e tabelas. | Python, Pandas, Plotly, Streamlit, FPDF | https://github.com/joaovitorfe/analise-financeira |
 | **ML App – Classificador de Íris**   | Classificador RandomForest com UI em Streamlit: ajuste de hiperparâmetros, relatório de métricas, matriz de confusão e previsão interativa. | Python, scikit-learn, Streamlit, Plotly    |    |
 | **Chat IA Web & WhatsApp**          | Chatbot Flask + Twilio WhatsApp usando OpenAI, com memória de contexto, prompt personalizável e interface web simples.  | Python, Flask, OpenAI API, Twilio          | |
 | **Simulação de Mão Robótica**        | Simulação 3D com PyBullet de uma mão robótica controlada via JSON de gestos (abrir, fechar, apontar, etc.). | Python, PyBullet, URDF, NumPy             | |
