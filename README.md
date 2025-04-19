@@ -1,5 +1,3 @@
-# Portfólio Python – João Vitor Ferreira
-
 Olá! 👋  
 Sou **João Vitor Ferreira**, analista de TI, desenvolvedor Python com foco em automação, dados, IA e simulações. Aqui reúno meus projetos entre outros... 
 ---
