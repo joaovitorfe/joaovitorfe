@@ -1,5 +1,5 @@
 Olá! 👋  
-Sou **João Vitor Ferreira**, analista de TI, desenvolvedor, Aqui reúno meus projetos entre outros... 
+Sou **João Vitor Ferreira**, analista de TI, IaC, Devops, desenvolvedor, Aqui reúno meus projetos entre outros... 
 ---
 
 ## 🚀 Projetos em Destaque
